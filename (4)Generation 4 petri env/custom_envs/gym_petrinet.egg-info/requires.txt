@@ -1,0 +1,4 @@
+gym
+Pandas
+Numpy
+matplotlib
